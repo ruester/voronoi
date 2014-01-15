@@ -1,4 +1,4 @@
-voronoi
+Voronoi
 =======
 
-visualisation of a voronoi diagram written in Java using Swing components
+Visualisation of a voronoi diagram written in Java using Swing components.
